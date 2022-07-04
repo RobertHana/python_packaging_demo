@@ -1,7 +1,7 @@
 import requests
 
 
-def download(url, dest_path=None):
+def dbzpipe(url, dest_path=None):
     """ Download a resource at `url` to `dest_path`.
 
     Parameters
